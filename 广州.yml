@@ -1,0 +1,10 @@
+lines:
+  - 背景颜色: '#edcf3b'
+    文本颜色: black
+    code: '1'
+    stations:
+      - 西朗
+      - 坑口
+      - 花地湾
+      - 芳村
+      - 黄沙
